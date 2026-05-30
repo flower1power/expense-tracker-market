@@ -1,0 +1,8 @@
+{
+  "name": "expence-tracker-plugin",
+  "description": "Инструменты для стандартной работы над проектом",
+  "version": "1.0.0",
+  "author": {
+    "name": "Viktor Lobyntsev"
+  }
+}

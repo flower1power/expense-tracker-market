@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker",
+  "owner": {
+    "name": "Viktor Lobyntsev",
+    "email": "v@mail.ru"
+  },
+  "metadata": {
+    "description": "Базовые инструменты для работы",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "expence-tracker-plugin",
+      "source": "./plugins/expence-tracker-plugin",
+      "description": "Инструменты для стандартной работы над проектом",
+      "version": "1.0.0"
+    }
+  ]
+}
